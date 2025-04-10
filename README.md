@@ -1,6 +1,6 @@
 # Anime-Image-to-Anime-Name
 
-## This project identifies anime names through the images related to the anime movie using CNN.
+This project identifies anime names through the images related to the anime movie using CNN.
 ## Team Name - DebugThugs
 ## Team Members:
 - Akshat
